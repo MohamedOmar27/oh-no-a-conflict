@@ -1,2 +1,4 @@
 # oh-no-a-conflict
-a repository with intentional conflicts to demonstrate how to merge with git 
+a repository with intentional conflicts to demonstrate the mechanism to merge with git 
+
+
